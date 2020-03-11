@@ -1,0 +1,5 @@
+dependencies:
+  - seaborn
+  - pip
+  - pip:
+      - julia
