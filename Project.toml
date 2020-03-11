@@ -1,7 +1,2 @@
 name = "julia-demo-for-econometrics"
-version = "1.3"
-
-[deps]
-LinearAlgebra
-Seaborn
-Statistics
+version = "1.3.1"
